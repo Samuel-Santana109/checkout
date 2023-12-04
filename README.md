@@ -1,6 +1,6 @@
-# Projeto - IMC
+# Checkout
  
-Site para calcular o seu pesos ideal.
+feito em bootstrap
 
 <p> Esse site foi feito para calcular seu peso ideal, foi um site feito para Estudos e conhecimentose práticas na linguagem javascript.
     Esse foi um dos meus primeiros projetos desde de quando iniciei minha carreira como desenvolvedor. 
