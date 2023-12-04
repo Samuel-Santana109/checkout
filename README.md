@@ -2,15 +2,14 @@
  
 feito em bootstrap
 
-<p> Esse site foi feito para calcular seu peso ideal, foi um site feito para Estudos e conhecimentose práticas na linguagem javascript.
-    Esse foi um dos meus primeiros projetos desde de quando iniciei minha carreira como desenvolvedor. 
+<p>Esse site foi feito para ser um design de formulario
 </p>
 
 ## Visualização
 
 <p>Para visualizar o projeto, basta clicar na imagem abaixo: </p>
 
- <a href="https://samuel-santana109.github.io/projeto-imc" target="_blank">
+ <a href="https://samuel-santana109.github.io/checkout/" target="_blank">
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" target="_blank">
  </a>
 
