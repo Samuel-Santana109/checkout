@@ -25,7 +25,7 @@ feito em bootstrap
 
  ## Instalação 
 
- - Clone o repositório: git clone https://github.com/Samuel-Santana109/projeto-imc.git
+ - Clone o repositório: [git clone https://github.com/Samuel-Santana109/projeto-imc.git](https://github.com/Samuel-Santana109/checkout_design.git)
 
  - Abra o arquivo index.html em seu navegador
 
