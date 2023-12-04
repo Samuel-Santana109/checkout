@@ -9,7 +9,7 @@ feito em bootstrap
 
 <p>Para visualizar o projeto, basta clicar na imagem abaixo: </p>
 
- <a href="https://samuel-santana109.github.io/checkout/" target="_blank">
+ <a href="https://samuel-santana109.github.io/checkout_design/" target="_blank">
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" target="_blank">
  </a>
 
